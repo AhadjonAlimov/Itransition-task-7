@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.customBg {
+  background-color: #10b981;
+}
+
+.customColor {
+  color: #10b981;
+}
